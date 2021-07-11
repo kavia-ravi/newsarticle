@@ -1,4 +1,4 @@
-# newsarticle
+# newsarticle - Scrapy - MongoDB Pipeline
 This is an application to crawl an online news website, e.g. www.theguardian.com/au using crawler framework [Scrapy] (http://scrapy.org/)
 and build the application in Python to obtain only information relevant to the newsstory, e.g. article text, author, headline, article url, etc.
 
